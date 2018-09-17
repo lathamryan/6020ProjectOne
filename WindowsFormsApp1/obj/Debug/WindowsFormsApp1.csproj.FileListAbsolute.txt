@@ -1,0 +1,10 @@
+C:\Users\RyanLatham\Dropbox\UC-Denver\Academic\6020\GitHub\CalculateLetterGrade\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\RyanLatham\Dropbox\UC-Denver\Academic\6020\GitHub\CalculateLetterGrade\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\RyanLatham\Dropbox\UC-Denver\Academic\6020\GitHub\CalculateLetterGrade\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\RyanLatham\Dropbox\UC-Denver\Academic\6020\GitHub\CalculateLetterGrade\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\RyanLatham\Dropbox\UC-Denver\Academic\6020\GitHub\CalculateLetterGrade\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmCalculateGrade.resources
+C:\Users\RyanLatham\Dropbox\UC-Denver\Academic\6020\GitHub\CalculateLetterGrade\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\RyanLatham\Dropbox\UC-Denver\Academic\6020\GitHub\CalculateLetterGrade\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\RyanLatham\Dropbox\UC-Denver\Academic\6020\GitHub\CalculateLetterGrade\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\RyanLatham\Dropbox\UC-Denver\Academic\6020\GitHub\CalculateLetterGrade\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\RyanLatham\Dropbox\UC-Denver\Academic\6020\GitHub\CalculateLetterGrade\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
